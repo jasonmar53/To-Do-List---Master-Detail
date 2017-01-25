@@ -4,4 +4,4 @@ A basic to do list that allows you to save name's of tasks, add images, and add 
 
 Utilizes a Master/Detail Flow template when in landscape mode. 
 
-The app-debug.apk is available to download 
+The app-debug.apk is available to download. 
